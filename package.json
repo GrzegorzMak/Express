@@ -1,14 +1,12 @@
 {
   "name": "hacker-shop",
   "version": "1.0.0",
-  "description": "API Speed Run — Express.js workshop",
+  "description": "API Speed Run, Express.js workshop",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "stage1": "node stages/stage1.js",
     "stage2": "node stages/stage2.js",
-    "stage3": "node stages/stage3.js",
-    "stage4": "node stages/stage4.js",
     "stage5": "node index.js"
   },
   "dependencies": {
